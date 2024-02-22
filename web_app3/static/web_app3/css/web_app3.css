@@ -13,7 +13,7 @@ aside {
 }
 
 aside img {
-            width: 80px;
+            width: 60px;
             float: left;
 }
 aside .logo {
@@ -21,5 +21,11 @@ aside .logo {
     margin-left: 10px;
     font-weight: bold;
     position: relative;
-    top -5px;
+    top 35px;
+}
+
+aside h3 {
+    margin-top: 50px;
+    font-size: 28px;
+
 }
